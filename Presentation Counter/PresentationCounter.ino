@@ -15,7 +15,7 @@ const int ledPin = 13;
 
 const int tempo = 108;
 const int totalSeconds = 60;
-const int shortPresentationMinutes = 1;
+const int shortPresentationMinutes = 10;
 const int longPresentationMinutes = 15;
 
 int melody[] = {
